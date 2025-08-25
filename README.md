@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# mpv-pausesnap
-An MPV Lua script that automatically takes screenshots when you pause videos.
-=======
 # PauseSnap
 
 An MPV Lua script that automatically takes screenshots when you pause videos. This script has evolved through several iterations based on my own use cases and some community feedback. Because who has time to remember the screenshot hotkey every single time?
@@ -193,4 +189,4 @@ mp.command_native_async({
 
 ## License
 Use it, modify it, break it, fix it - whatever makes you happy.
->>>>>>> 8aebdeb (PauseSnap)
+
