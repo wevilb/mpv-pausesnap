@@ -1,4 +1,9 @@
+<div align="center">
+
 # PauseSnap
+![PauseSnap](perview/pausesnap_perview.gif)
+
+</div>
 
 An MPV Lua script that automatically takes screenshots when you pause videos. This script has evolved through several iterations based on my own use cases and some community feedback. Because who has time to remember the screenshot hotkey every single time?
 
