@@ -15,7 +15,7 @@ An MPV Lua script that automatically takes screenshots when you pause videos. Th
 
 ## Basic Installation
 
-Drop `pausesnap.lua` into your MPV scripts directory:
+Drop [`pausesnap.lua`](pausesnap.lua) into your MPV scripts directory:
 
 ```bash
 # Linux/macOS
