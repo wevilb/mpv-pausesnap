@@ -85,6 +85,7 @@ Example templates:
 ```ini
 # Basic: filename-timestamp
 screenshot_template=%F-%p
+%{filename/no-ext:untitled}-%p
 
 # With title: filename-title-timestamp  
 screenshot_template=%F-%{metadata/title}-%p
